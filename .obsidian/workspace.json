@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Career/260403_퍼즐원스튜디오_코딩테스트.md",
+                "file": "03_Career/26_상반기_취준_회고_및_인사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260403_퍼즐원스튜디오_코딩테스트"
+              "title": "26_상반기_취준_회고_및_인사이트"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Career/260403_퍼즐원스튜디오_코딩테스트.md",
+                "file": "03_Career/플레이하드_코딩테스트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "260403_퍼즐원스튜디오_코딩테스트 의 개요"
+              "title": "플레이하드_코딩테스트 의 개요"
             }
           },
           {
@@ -195,18 +195,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ab25b2c69ab2d49",
+  "active": "63ac15d856138ba0",
   "lastOpenFiles": [
-    "03_Career/260209크로노스튜디오_임원면접.md",
-    "03_Career/260312_플레이하드_서술형.md",
-    "03_Career/260312_플레이하드_코딩테스트.md",
-    "03_Career/260403_퍼즐원스튜디오_코딩테스트.md",
-    "03_Career/260129_크로노스튜디오_기술면접.md",
+    "03_Career/플레이하드_코딩테스트.md",
+    "03_Career/플레이하드_서술형.md",
+    "03_Career/크로노스튜디오_포트폴리오분석.md",
+    "03_Career/크로노스튜디오_포트폴리오.pdf",
+    "03_Career/오승찬_포트폴리오_UE.pdf",
+    "03_Career/크로노스튜디오_이력서분석.md",
+    "03_Career/크로노스튜디오_기술면접.md",
+    "03_Career/크로노스튜디오_이력서.md",
+    "03_Career/퍼즐원스튜디오_이력서.md",
+    "03_Career/퍼즐원스튜디오_이력서분석.md",
+    "03_Career/퍼즐원스튜디오_포트폴리오분석.md",
+    "03_Career/퍼즐원스튜디오_코딩테스트.md",
+    "03_Career/퍼즐원스튜디오_인성면접.md",
+    "03_Career/퍼즐원스튜디오_포트폴리오.pdf",
+    "퍼즐원스튜디오_제출_이력서.md",
+    "03_Career/26_상반기_취준_회고_및_인사이트.md",
+    "03_Career/퍼즐원스튜디오_기술면접.md",
+    "무제",
+    "03_Career/크로노스튜디오_인성면접.md",
     "03_Career/플레이하드_서술형테스트.md",
     "무제.canvas",
     "2026-05-01.md",
     "환영합니다!.md",
-    "무제",
     "04_Daily",
     "03_Career",
     "02_Tech_Notes",
